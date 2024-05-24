@@ -16,6 +16,3 @@
 * User Problem / Requests page
 * Database updation of the User Requests (Delete, Update)
 * The Project is responsive
-
-# The Project is Hosted at (Do Check it out):
-### https://househelpers.herokuapp.com/
